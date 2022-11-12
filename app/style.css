@@ -1,0 +1,188 @@
+@font-face {
+    font-family: 'Product Sans Bold';
+    src: url('./fonts/Product\ Sans\ Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Product Sans Regular';
+    src: url('./fonts/Product\ Sans\ Regular.ttf');
+}
+
+
+.body {
+    background: #F8F8FF;
+}
+
+.nav {
+    height: 260px;
+    background: #DFDFE5;
+    padding: 50px;
+    justify-content: space-between;
+}
+
+.tracks {
+    background: #F8F8FF;
+    padding: 50px;
+    margin: 50px;
+    height: 2900px;
+}
+
+.scroll {
+    background: #F8F8FF;
+    height: 2160px;
+}
+
+.top-tracks-btn {
+    height: 260px;
+    background: #DFDFE5;
+    padding: 50px;
+    justify-content: space-between;
+}
+
+.nav-btn {
+    border-radius: 100%;
+    height: 50px;
+    width: 500px;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 20px;
+}
+
+.btnactive {
+    background-color: #c2bebe;
+    color: white;
+}
+
+.tracks-btn {
+    background: white;
+    border-radius: 100%;
+    height: 80px;
+    width: 400px;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 17px;
+}
+
+
+.track {
+    padding: 20px
+}
+
+.track-name {
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 18px;
+}
+
+.track-info {
+    color: black;
+    font-family: 'Product Sans Regular';
+    font-size: 14px;
+}
+
+
+.artist {
+    padding: 50px
+}
+
+.album {
+    padding: 50px
+}
+
+.artist-name-input {
+    border-radius: 100%;
+    background: white;
+    padding: 40px;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 20px;
+}
+
+.album-name-input {
+    border-radius: 100%;
+    background: white;
+    padding: 40px;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 20px;
+}
+
+.btn-artist {
+    margin-top: 50px;
+    background: white;
+    border-radius: 100%;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 20px;
+}
+
+.btn-album {
+    margin-top: 50px;
+    background: white;
+    border-radius: 100%;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 20px;
+}
+
+.artist-name {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 22px;
+}
+
+.album-name {
+    border-radius: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 22px;
+}
+
+.about-artist {
+    margin-left: 60px;
+    color: black;
+    font-family: 'Product Sans Regular';
+    font-size: 15px;
+}
+
+.error {
+    margin-top: 70px;
+    text-align: center;
+    color: red;
+    font-family: 'Product Sans Bold';
+    font-size: 18px;
+}
+
+.about-album {
+    margin-left: 60px;
+    color: black;
+    font-family: 'Product Sans Regular';
+    font-size: 15px;
+}
+
+.listeners-album {
+    margin-left: 60px;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 17px;
+}
+
+.album-n {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: black;
+    font-family: 'Product Sans Bold';
+    font-size: 22px;
+}
+
+.img {
+    width: 400px;
+    height: 400px;
+}
